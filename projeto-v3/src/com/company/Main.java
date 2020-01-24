@@ -6,7 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
         Livro livro1 = new Livro("Como fazer sentido e bater o martelo", "Alexandro Aolchique", 2017);
-        Livro livro1
 
         System.out.println("Olá! o que voce deseja fazer?\n");
         System.out.println("1 - Lista de livros");
